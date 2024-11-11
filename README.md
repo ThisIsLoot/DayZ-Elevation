@@ -6,5 +6,5 @@ TIL_ElevationData.c is an Enfusion script to get Y-values (i.e. height) over an 
 
 XYZtoYarray.py is a small Python script to take the output of TIL_ElevationData.c and convert into an array that can be plotted using Observable's Contour Mark method. 
 
-
+![alt text](https://github.com/ThisIsLoot/DayZ-Elevation/blob/main/image.pngg?raw=true)
 
