@@ -80,7 +80,8 @@ class TIL_GetElevation // "TIL" stands for ThisIsLoot
 
 }
 
-class TIL_jsonElevationData //a class to json serialize into to jsonify the data
+//a class to json serialize into to jsonify the data
+class TIL_jsonElevationData
 {
 	float x;
 	float y;
